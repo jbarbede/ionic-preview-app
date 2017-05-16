@@ -5,6 +5,8 @@ import * as helpers from '../directives/helpers';
 import { PageOne, PageTwo, PageThree } from '../pages/menus/basic/pages';
 import { BasicPage } from '../pages/action-sheets/basic/pages';
 
+import '../theme/test.css';
+
 @Component({
   templateUrl: 'app.template.html'
 })
